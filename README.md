@@ -1,2 +1,2 @@
 # FruitJuice
-Expansion of Juice Jam (a game jam) project
+Expansion of Juice Jam 2 project
